@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "title": "Perioe Intense Pumping Spearment 2X 285g",
+    "price": 77000,
+    "img": "product1",
+    "bigImg": "bigProduct1",
+    "desc": {
+      "ru": "Зубная паста во флаконе с дозатором.",
+      "en": "Toothpaste in a pump bottle.",
+      "uz": "Dispenser dizaynga ega."
+    },
+    "descFull": {
+      "ru": "Паста в форме геля, с освежающим и бодрящим мятным вкусом, эффективно удаляет налет с поверхности зубов, предотвращает образование зубного камня, заботится о состоянии полости рта и свежести дыхания. Применение: Снимите защитный колпачок. Выдавите необходимое количество зубной пасты и почистите зубы. Зубная паста предназначена для взрослых. Меры предосторожности: При возникновении воспаления прекратить применение и проконсультироваться с врачом. При попадании в глаза промыть их водой. Годен до: см. на упаковке (месяц, год).",
+      "en": "Gel texture with a refreshing and invigorating spearmint flavor. Effectively removes plaque, prevents tartar, and maintains oral hygiene and fresh breath. How to use: Remove the protective cap. Dispense the desired amount and brush your teeth. For adults only. Precautions: Discontinue use if inflammation occurs and consult a doctor. In case of eye contact, rinse with water. Expiration date: see packaging.",
+      "uz": "Katta Hajm. Idishda 3ta oddiy naycha tish pastasi miqdori. Tish pastasi gel shaklida. Gel tezda eriydi va ko'piklanadi. Yalpizning sovutuvchi va aromatik xususiyatlarga ega. Tish dog'larini olib tashlaydi, toshning shakllanishiga to'sqinlik qiladi, yoqimsiz hidni yo'q qiladi, milklar salomatligiga g'amxo'rlik qiladi. Xavfsizlik choralari: Agar yallig'lanish paydo bo'lsa, foydalanishni to'xtating va shifokor bilan maslahatlashing. Ko'z bilan aloqa qilganda ko'p suv bilan yuvib tashlang. Qo'llash tartibi: Tish cho'tkasiga kerakli miqdordagi tish pastasini qo'llang va tishlaringizni yuving. Kattalar uchun tish pastasi. Yaroqlilik muddati: qadoqni ko'ring (oy, yil). Ushbu mahsulot Adolatli savdo komиссиясининг талабларига мувофиқ almashtirilishi ёки kompensatsiya қилиниши мумкин. Ishlab chiqaruvchi: LG Household & Health Care Ltd. ... (узнатократил)"
+    },
+    "brand": "Perioe Intense",
+    "category": "teeth-care",
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Perioe Intense Pumping Herb 2X 285g",
+    "price": 77000,
+    "img": "product2",
+    "bigImg": "bigProduct2",
+    "desc": {
+      "ru": "Зубная паста во флаконе с дозатором, способный заменить три упаковки продукции.",
+      "en": "Toothpaste in a pump bottle that can replace three regular tubes.",
+      "uz": "Katta hajm. Idishda 3 ta oddiy naycha tish pastasi miqdori joylashgan."
+    },
+    "descFull": {
+      "ru": "Данное средство имеет приятный аромат и вкус трав, который эффективно убирает неприятный запах. Гелеобразная текстура бережно очищает зубы, а витамин Е оберегает их. Применение: Снимите защитный колпачок. Выдавите необходимое количество зубной пасты и почистите зубы. Зубная паста предназначена для взрослых. Меры предосторожности: При возникновении воспаления прекратить применение и проконсультироваться с врачом. При попадании в глаза промыть их водой. Годен до: см. на упаковке (месяц, год).",
+      "en": "Pleasant herbal flavor effectively neutralizes bad breath. Gel texture gently cleanses the teeth and Vitamin E protects them. How to use: Remove the protective cap. Dispense the desired amount and brush your teeth. For adults only. Precautions: Discontinue use if inflammation occurs and consult a doctor. In case of eye contact, rinse with water. Expiration date: see packaging.",
+      "uz": "Tish pastasi gel shaklida bo'lib, gel tezda eriydi va ko'piklanadi. Ushbu mahsulot foydali o'tlarning yoqimli hidi va ta'miga ega, bu esa yoqimsiz hidni samarali ravishda yo'q qiladi... (узнатократил)"
+    },
+    "brand": "Perioe Intense",
+    "category": "teeth-care",
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "ES Perfume Pure Breeze Shampoo 600ml",
+    "price": 77000,
+    "img": "product3",
+    "bigImg": "bigProduct3",
+    "desc": {
+      "ru": "Шампунь ES Perfume Pure Breeze Shampoo 600ml",
+      "en": "Perfumed shampoo for women.",
+      "uz": "Shampun ES Perfume Pure Breeze Shampun 600ml"
+    },
+    "descFull": {
+      "ru": "Линия парфюмированных Elastine разработана ... (текст укорочен для примера)",
+      "en": "Perfumed shampoo featuring a fresh scent of white rose, lotus, and white tea. Keeps hair soft, smooth, and fragrant. Use after wetting hair; lather and rinse.",
+      "uz": "Parfyumlangan shampunlarning Elastine liniyasi ayollarning sochni parvarish qilish bo'yicha..."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "ES Perfume Pure Breeze Conditioner 600ml",
+    "price": 77000,
+    "img": "product4",
+    "bigImg": "bigProduct4",
+    "desc": {
+      "ru": "Шампунь ES Perfume Pure Breeze Conditioner 600ml",
+      "en": "Perfumed conditioner to complement the shampoo.",
+      "uz": "Konditsioner ES Perfume Pure Breeze Shampun 600ml"
+    },
+    "descFull": {
+      "ru": "Линия парфюмированных Elastine разработана ...",
+      "en": "Perfumed conditioner with notes of white rose, lotus and white tea. Apply after shampoo, leave briefly, rinse.",
+      "uz": "Parfyumlangan shampunlarning Elastine liniyasi ..."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "OTB cashmere perfume Shinning dream body lotion 400ml",
+    "price": 91000,
+    "img": "product5",
+    "bigImg": "bigProduct5",
+    "desc": {
+      "ru": "On The Body Cashmere Perfume Body Lotion Dream",
+      "en": "Rich body lotion with long-lasting floral fragrance.",
+      "uz": "On The Body Cashmere Perfume Body Lotion Dream"
+    },
+    "descFull": {
+      "ru": "Это богатый увлажняющий лосьон ...",
+      "en": "Rich, cashmere-like lotion with natural extracts; hydrates and softens. Apply after shower.",
+      "uz": "Bu boy namlovchi losyon ..."
+    },
+    "brand": "On The Body",
+    "category": "body-care",
+    "available": true
+  },
+  {
+  "id": 6,
+  "title": "OTB cashmere perfume Sweet Love body lotion 400ml",
+  "price": 91000,
+  "img": "product6",
+  "bigImg": "bigProduct6",
+  "desc": {
+    "ru": "On The Body Cashmere Perfume Body Lotion Sweet Love",
+    "en": "Sweet-scented moisturizing body lotion with shea butter and argan oil.",
+    "uz": "On The Body Cashmere Parfume Body Lotion Sweet Love"
+  },
+  "descFull": {
+    "ru": "Это богатый увлажняющий лосьон нежно обволакивает всё тело стойкими цветочными ароматами. Подарите себе праздник после душа и начинайте день с приятного аромата. Парфюмированный лосьон для тела мягкий, как кашемир, приглашая к чувственному наслаждению. Дарит коже нежность и мягкость благодаря маслам ши и арганы и растительным экстрактам. Обеспечивает длительное питание кожи и стойкий увлажняющий эффект. Масло ши смягчает, стимулирует глубокую регенерацию кожи, повышает синтез коллагена и защищает от УФ-лучей. Аргановое масло оживляет, увлажняет, восстанавливает и предупреждает признаки увядания кожи. Не содержит парабенов, сульфатов и компонентов животного происхождения. Стойкий нежный аромат фрезии и мускуса.\nПрименение: нанесите после душа или ванны на тело массажными движениями до полного впитывания.\nМеры предосторожности: избегать попадания в глаза; при попадании тщательно промыть водой. Прекратить использование при признаках раздражения или сыпи и обратиться к врачу.",
+    "en": "Sweet-scented moisturizing body lotion with shea butter and argan oil. Deeply nourishes and protects the skin, leaving it silky and delicately scented with freesia and musk.\nHow to use: Massage onto the body after shower or bath until fully absorbed.\nPrecautions: Avoid eye contact. Rinse with water if contact occurs. Discontinue use if irritation develops.",
+    "uz": "On The Body Cashmere Parfume Body Lotion Sweet Love tanani yumshoqlik va uzoq davom etadigan gulli hid bilan o‘rab oladi. Shea yog‘i va argan yog‘i terini chuqur oziqlantiradi, namlaydi va himoya qiladi. Freziya va mushkning nozik hidi uzoq saqlanadi.\nQo‘llanishi: Dush yoki hammomdan keyin losyonni massaj harakatlari bilan teriga surting.\nEhtiyot choralari: Ko‘zga tegmasin. Tegib ketsa, toza suv bilan yuving. Tirnash xususiyati paydo bo‘lsa, foydalanishni to‘xtating va shifokorga murojaat qiling."
+  },
+  "brand": "On The Body",
+  "category": "body-care",
+  "available": true
+},
+{
+    "id": 7,
+    "title": "OTB cashmere perfume Happy breeze body lotion 400ml",
+    "price": 91000,
+    "img": "product7",
+    "bigImg": "bigProduct7",
+    "desc": {
+      "ru": "On The Body Cashmere Perfume Body Lotion Happy Breeze",
+      "en": "Moisturizing body lotion with a light, elegant floral scent.",
+      "uz": "On The Body Cashmere Perfume Body Lotion Happy Breeze"
+    },
+    "descFull": {
+      "ru": "Это богатый увлажняющий лосьон нежно обволакивает всё тело стойкими цветочными ароматами. Подарите себе праздник после душа и начинайте день с приятного аромата. Парфюмированный лосьон для тела мягкий, как кашемир, приглашая к чувственному наслаждению. Дарит коже нежность и мягкость благодаря ценным маслам ши и арганы и растительным экстрактам. Обеспечивает длительное интенсивное питание кожи и стойкий увлажняющий эффект. Масло ши смягчает, пробуждает глубокую регенерацию кожи, стимулирует синтез коллагена, восстанавливает цвет кожи и защищает от УФ-лучей. Аргановое масло оживляет, увлажняет, восстанавливает и предупреждает признаки увядания кожи. Не содержит парабенов, сульфатов и компонентов животного происхождения. Стойкий нежный аромат фрезии и мускуса.\nПрименение: нанесите после душа или ванны на тело массажными движениями до полного впитывания.\nМеры предосторожности: избегать попадания в глаза; при попадании тщательно промыть водой. Прекратить использование при признаках раздражения или сыпи и обратиться к врачу.",
+      "en": "Moisturizing body lotion with a light, elegant floral scent. Infused with shea butter and argan oil to hydrate, restore, and protect skin, leaving it smooth and cashmere-soft. Freesia and musk provide a lasting delicate aroma.\nHow to use: Massage onto the body after bathing until fully absorbed.\nPrecautions: Avoid eye contact. Rinse with water if contact occurs. Discontinue use if irritation develops.",
+      "uz": "Bu boy namlovchi losyon butun tanani muloyimlik va uzoq davom etadigan gulli hidlar bilan o‘rab oladi. Shea yog‘i va argan yog‘i terini chuqur oziqlantiradi, namlaydi va himoya qiladi. Freziya va mushkning nozik hidi uzoq saqlanadi.\nQo‘llanishi: Dush yoki hammomdan keyin losyonni massaj harakatlari bilan teriga surting.\nEhtiyot choralari: Ko‘zga tegmasin. Tegib ketsa, toza suv bilan yuving. Tirnash xususiyati paydo bo‘lsa, foydalanishni to‘xtating va shifokorga murojaat qiling."
+    },
+    "brand": "On The Body",
+    "category": "body-care",
+    "available": true
+  },
+  {
+    "id": 8,
+    "title": "OTB Sweet Love Body Wash 500ml",
+    "price": 81900,
+    "img": "product8",
+    "bigImg": "bigProduct8",
+    "desc": {
+      "ru": "Парфюмированный гель-душ «On The Body Sweet Love» 500 мл",
+      "en": "Perfumed body wash with a sweet, elegant scent.",
+      "uz": "OTB Sweet Love Body Wash 500 мл – parfyumli dush geli."
+    },
+    "descFull": {
+      "ru": "Чувственный парфюмированный гель превращает водные процедуры в блаженство: фрукто-цветочные ноты магнолии и персика поднимают настроение, миндальное молочко увлажняет и повышает упругость кожи. Без парабенов, красителей и ингредиентов животного происхождения; образует густую, шелковистую пену.\nПрименение: нанести на влажную кожу или мочалку, вспенить, смыть водой.\nМеры предосторожности: избегать попадания в глаза, при контакте промыть водой; не применять детям младше 3 лет; при раздражении прекратить использование и обратиться к врачу.",
+      "en": "Sweet, elegant body wash with magnolia and peach notes for an uplifting shower experience. Almond extract hydrates and improves elasticity while a rich, silky lather deeply cleanses. Free from parabens, animal ingredients, and artificial colorants.\nHow to use: Apply to loofah or wet skin, lather, and rinse thoroughly.\nPrecautions: Avoid eye contact; rinse well if contact occurs. Not for children under 3. Discontinue use if irritation appears.",
+      "uz": "Shirin va nafis hidli parfyumlangan dush geli. Magnoliya va shaftoli notalari kayfiyatni ko‘taradi, bodom ekstrakti terini namlaydi va elastikligini oshiradi. Parabenlar va bo‘yoqlarsiz, zich ko‘pik hosil qiladi.\nQo‘llanilishi: Gelni nam teriga yoki gubkaga surting, ko‘piklang va suv bilan yuving.\nEhtiyot choralari: Ko‘zga tegmasin; tegib ketsa suv bilan yaxshilab yuving. 3 yoshdan kichik bolalarga mos emas. Tirnash xususiyati paydo bo‘lsa, foydalanishni to‘xtating."
+    },
+    "brand": "On The Body",
+    "category": "body-care",
+    "available": true
+  },
+  {
+    "id": 9,
+    "title": "OTB Happy Breeze Body Wash 500ml",
+    "price": 81900,
+    "img": "product9",
+    "bigImg": "bigProduct9",
+    "desc": {
+      "ru": "Парфюмированный гель-душ «On The Body Happy Breeze» 500 мл",
+      "en": "Botanical body wash with shea butter and saponaria.",
+      "uz": "OTB Happy Breeze Body Wash 500 мл – parfyumli dush geli."
+    },
+    "descFull": {
+      "ru": "100 % растительный состав для ежедневного ухода. Масло ши глубоко увлажняет и расслабляет кожу, сапонария способствует естественному увлажнению и мягкому очищению без липкой плёнки. Тело становится свежим, упругим и гладким; элегантный аромат дарит чувство комфорта. Дерматологически протестировано, подходит всем типам кожи.\nПрименение: нанести на влажную кожу или мочалку, вспенить, смыть водой.\nМеры предосторожности: избегать попадания в глаза, при контакте промыть водой; не применять детям младше 3 лет; при раздражении прекратить использование и обратиться к врачу.",
+      "en": "Daily botanical body wash made with 100 % plant-based ingredients. Shea butter moisturises and soothes while saponaria gently cleanses, leaving no sticky residue. Skin feels fresh, firm, and smooth with a lasting, elegant scent. Dermatologist-tested; suitable for all skin types.\nHow to use: Apply to loofah or wet skin, lather, and rinse thoroughly.\nPrecautions: Avoid eye contact. Rinse well if contact occurs. Not for children under 3. Discontinue use if irritation develops.",
+      "uz": "100 % o‘simlik tarkibli kundalik dush geli. Shea yog‘i terini namlaydi va bo‘shashtiradi, saponariya esa yumshoq tozalash va tabiiy namlanishni taʼminlaydi, yopishqoq qoldiq qoldirmaydi. Teri yangilanib, silliq va elastik bo‘ladi; nafis hid uzoq vaqt saqlanadi. Dermatologik sinovdan o‘tgan, barcha teri turlariga mos.\nQo‘llanilishi: Gelni nam teriga yoki gubkaga surting, ko‘piklang va suv bilan yuving.\nEhtiyot choralari: Ko‘zga tegmasin; tegib ketsa suv bilan yaxshilab yuving. 3 yoshdan kichik bolalar uchun mos emas. Tirnash belgilari paydo bo‘lsa, foydalanishni to‘xtating."
+    },
+    "brand": "On The Body",
+    "category": "body-care",
+    "available": true
+  },
+  {
+    "id": 10,
+    "title": "ES Damage Care 10X Shampoo 680 ml",
+    "price": 77000,
+    "img": "product10",
+    "bigImg": "bigProduct10",
+    "desc": {
+      "ru": "Питательный шампунь с аргановым маслом для всех, особенно повреждённых, типов волос.",
+      "en": "Nourishing argan-oil shampoo for all hair types, especially damaged hair.",
+      "uz": "Argan yog‘li, shikastlangan va barcha turdagi sochlar uchun oziqlantiruvchi shampun."
+    },
+    "descFull": {
+      "ru": "Аргановое масло интенсивно питает и увлажняет волосы и кожу головы, восстанавливает структуру, придаёт блеск и шелковистость, защищает от UV-лучей и снижает выпадение. В составе также масло ши, мёд, жожоба и авокадо.\nПрименение: распределить по мокрым волосам, вспенить, мягко помассировать, смыть тёплой водой.\nМеры предосторожности: только для наружного применения; избегать попадания в глаза; при раздражении прекратить использование.",
+      "en": "Argan oil deeply nourishes and hydrates hair and scalp, repairing structure, adding shine and silkiness, protecting against UV damage, and helping reduce hair loss. Formula also contains shea butter, honey, jojoba, and avocado oils.\nHow to use: Apply to wet hair, lather, massage gently, then rinse with warm water.\nPrecautions: For external use only. Avoid eye contact. Discontinue use if irritation occurs.",
+      "uz": "Argan yog‘i soch va bosh terisini chuqur oziqlantiradi, namlaydi, tuzilmani tiklaydi, yorqinlik va ipakdek yumshoqlik beradi, UV nurlaridan himoya qiladi hamda to‘kilishni kamaytiradi. Tarkibida shuningdek shea yog‘i, asal, jojoba va avakado yog‘lari bor.\nQo‘llanilishi: Nam sochlarga surtib, ko‘piklang, muloyim massaj qiling va iliq suv bilan yuving.\nEhtiyot choralari: Faqat tashqi foydalanish uchun. Ko‘zga tegishidan saqlaning. Tirnash paydo bo‘lsa, ishlatishni to‘xtating."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 11,
+    "title": "ES Damage Care 10X Conditioner 680 ml",
+    "price": 77000,
+    "img": "product11",
+    "bigImg": "bigProduct11",
+    "desc": {
+      "ru": "Питательный кондиционер с аргановым маслом для всех, особенно повреждённых, типов волос.",
+      "en": "Rich argan-oil conditioner for damaged and dry hair.",
+      "uz": "Argan yog‘li, quruq va shikastlangan sochlar uchun konditsioner."
+    },
+    "descFull": {
+      "ru": "Аргановое масло глубоко питает и увлажняет волосы и кожу головы, восстанавливает структуру, придаёт блеск, эластичность и защищает от UV-лучей. В формуле также масло ши, мёд, жожоба и авокадо.\nПрименение: нанести на влажные пряди от середины длины до кончиков после шампуня, оставить на 1-2 минуты, смыть тёплой водой.\nМеры предосторожности: только наружное применение; избегать попадания в глаза; при раздражении прекратить использование.",
+      "en": "Argan oil deeply nourishes and hydrates hair and scalp, restoring structure, shine, and elasticity while shielding from UV damage. Formula also includes shea butter, honey, jojoba, and avocado oils.\nHow to use: After shampooing, apply to wet hair from mid-length to ends, leave 1-2 minutes, rinse with warm water.\nPrecautions: For external use only. Avoid eye contact. Discontinue if irritation occurs.",
+      "uz": "Argan yog‘i soch va bosh terisini chuqur oziqlantiradi hamda namlaydi, tuzilmani tiklaydi, yorqinlik va elastiklik beradi, UV nurlaridan himoya qiladi. Tarkibida shea yog‘i, asal, jojoba va avakado yog‘lari mavjud.\nQo‘llanilishi: Shampundan so‘ng nam sochlarga, uzunligining o‘rtasidan uchigacha surting, 1-2 daqiqadan so‘ng iliq suv bilan yuving.\nEhtiyot choralari: Faqat tashqi foydalanish uchun. Ko‘zga tegishidan saqlaning. Tirnash paydo bo‘lsa, ishlatishni to‘xtating."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 12,
+    "title": "ES Damage Care 10X Shampoo 200 ml",
+    "price": 28000,
+    "img": "product12",
+    "bigImg": "bigProduct12",
+    "desc": {
+      "ru": "Шампунь с аргановым маслом для повреждённых волос (200 мл).",
+      "en": "Argan-oil shampoo for damaged hair, 200 ml.",
+      "uz": "Argan yogʻli, shikastlangan sochlar uchun shampun (200 ml)."
+    },
+    "descFull": {
+      "ru": "Аргановое масло глубоко питает и увлажняет волосы и кожу головы, восстанавливая структуру, блеск и силу. В составе также масло ши, мёд, жожоба и авокадо.\nПрименение: вспенить на влажных волосах, мягко помассировать, смыть тёплой водой.\nМеры предосторожности: только наружное применение; избегать попадания в глаза; при раздражении прекратить использование.",
+      "en": "Argan oil deeply nourishes hair and scalp, restoring structure, shine, and strength. Formula also contains shea butter, honey, jojoba, and avocado oils.\nHow to use: Lather into wet hair, massage gently, rinse with warm water.\nPrecautions: For external use only. Avoid eye contact. Discontinue if irritation occurs.",
+      "uz": "Argan yogʻi soch va bosh terisini chuqur oziqlantiradi hamda namlaydi, tuzilmani tiklaydi, yorqinlik va mustahkamlik beradi. Tarkibida shea yogʻi, asal, jojoba va avakado yogʻlari mavjud.\nQoʻllanilishi: Nam sochlarga surtib ko‘piklang, yengil massaj qiling, iliq suv bilan yuving.\nEhtiyot choralari: Faqat tashqi foydalanish uchun. Ko‘zga tegishidan saqlaning. Tirnash paydo bo‘lsa, ishlatishni to‘xtating."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 13,
+    "title": "ES Volume Care 10X Shampoo 680 ml",
+    "price": 77000,
+    "img": "product13",
+    "bigImg": "bigProduct13",
+    "desc": {
+      "ru": "Шампунь-объём с морским коллагеном (680 мл).",
+      "en": "Volumizing shampoo with marine collagen, 680 ml.",
+      "uz": "Dengiz kollagenli hajm beruvchi shampun (680 ml)."
+    },
+    "descFull": {
+      "ru": "Морской коллаген уплотняет и укрепляет тонкие волосы, придавая им до 24 ч объёма и естественный блеск. Патентованная система Volume-lipid создаёт упругую плёнку и снижает статическое электричество.\nПрименение: нанести на влажные волосы, вспенить, мягко помассировать, смыть тёплой водой.\nТолько для наружного применения; избегать попадания в глаза; при раздражении прекратить использование.",
+      "en": "Marine collagen densifies and strengthens fine hair, giving up to 24 h of volume and natural shine. Patented Volume-lipid system forms a resilient film and reduces static.\nHow to use: Apply to wet hair, lather, massage gently, rinse with warm water.\nFor external use only. Avoid eye contact. Discontinue if irritation occurs.",
+      "uz": "Dengiz kollageni yupqa sochlarni qalinlashtiradi va mustahkamlaydi, 24 soatgacha hajm va tabiiy yorqinlik beradi. Patentlangan Volume-lipid tizimi soch yuzasida elastik plyonka hosil qilib, statikani kamaytiradi.\nQo'llanilishi: Nam sochlarga surtib, ko'piklang, yengil massaj qiling va iliq suv bilan yuving.\nFaqat tashqi foydalanish uchun. Ko‘zga tegmasin. Tirnash paydo bo‘lsa, ishlatishni to‘xtating."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 14,
+    "title": "ES Volume Care 10X Conditioner 680 ml",
+    "price": 77000,
+    "img": "product14",
+    "bigImg": "bigProduct14",
+    "desc": {
+      "ru": "Кондиционер-объём с морским коллагеном (680 мл).",
+      "en": "Volumizing conditioner with marine collagen, 680 ml.",
+      "uz": "Dengiz kollagenli hajm beruvchi balzam (680 ml)."
+    },
+    "descFull": {
+      "ru": "Морской коллаген уплотняет тонкие волосы, придаёт силу и объём, снижает статическое электричество и дарит естественный блеск. Патентованная система Volume-lipid образует упругую защитную плёнку, сохраняя объём до 24 ч.\nПрименение: после шампуня нанести на влажные пряди от середины длины до кончиков, оставить на 1-2 мин, смыть тёплой водой.\nТолько для наружного применения; при попадании в глаза промыть; при раздражении прекратить использование.",
+      "en": "Marine collagen densifies fine hair, adds strength and volume, cuts static, and boosts natural shine. Patented Volume-lipid system leaves a resilient coating that maintains fullness up to 24 h.\nHow to use: After shampooing, apply to wet mid-lengths and ends, leave 1-2 min, rinse with warm water.\nExternal use only. Avoid eyes. Discontinue if irritation occurs.",
+      "uz": "Dengiz kollageni yupqa sochlarni qalinlashtiradi, mustahkamlaydi va 24 soatgacha hajm saqlaydi, statikani kamaytiradi hamda tabiiy yaltirash beradi. Patentlangan Volume-lipid tizimi elastik himoya qatlamini hosil qiladi.\nQo'llanilishi: Shampundan so‘ng nam sochning o‘rtasidan uchigacha surting, 1-2 daqiqaga qoldirib iliq suv bilan yuving.\nFaqat tashqi foydalanish uchun. Ko‘zga tegmasin. Tirnash paydo bo‘lsa, ishlatishni to‘xtating."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 15,
+    "title": "ES Volume Care 10X Shampoo 680 ml",
+    "price": 28000,
+    "img": "product15",
+    "bigImg": "bigProduct15",
+    "desc": {
+      "ru": "Шампунь-объём с морским коллагеном (680 мл).",
+      "en": "Volume-enhancing shampoo with marine collagen, 680 ml.",
+      "uz": "Dengiz kollagenli hajm beruvchi shampun (680 ml)."
+    },
+    "descFull": {
+      "ru": "Морской коллаген уплотняет тонкие волосы, придаёт объём и блеск, снижает статическое электричество. Патентованная Volume-lipid система сохраняет пышность до 24 ч.\nПрименение: массировать во влажные волосы, вспенить, смыть тёплой водой.\nТолько наружное применение; избегать попадания в глаза; при раздражении прекратить использование.",
+      "en": "Marine collagen densifies fine hair, boosts shine and volume while reducing static. Patented Volume-lipid system keeps fullness up to 24 h.\nHow to use: Massage into wet hair, lather, rinse with warm water.\nFor external use only. Avoid eye contact. Discontinue if irritation occurs.",
+      "uz": "Dengiz kollageni yupqa sochni qalinlashtiradi, hajm va yaltirash beradi, statikani kamaytiradi. Patentlangan Volume-lipid tizimi 24 soatgacha hajmni saqlaydi.\nQo‘llash: Nam sochga surtib, ko‘pik hosil qiling va iliq suv bilan yuving.\nFaqat tashqi foydalanish uchun. Ko‘zga tekkanda darhol yuving. Tirnash bo‘lsa, ishlatishni to‘xtating."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 16,
+    "title": "ES Moisture Care 10X Shampoo 680 ml",
+    "price": 77000,
+    "img": "product16",
+    "bigImg": "bigProduct16",
+    "desc": {
+      "ru": "Шампунь глубокого увлажнения ES Moisture Care 10X (680 мл).",
+      "en": "Deep-moisture shampoo for dry, brittle hair, 680 ml.",
+      "uz": "Quruq, mo‘rt sochlar uchun namlovchi shampun (680 ml)."
+    },
+    "descFull": {
+      "ru": "Авокадо-масло и фитокератин мгновенно питают, увлажняют и утолщают ломкие пряди, предупреждая их хрупкость. Волосы становятся эластичными и гладкими.\nПрименение: нанести на влажные волосы, вспенить, мягко помассировать, смыть тёплой водой.\nТолько наружное применение; избегать попадания в глаза; при раздражении прекратить использование.",
+      "en": "Enriched with avocado oil and phyto-keratin to hydrate, strengthen and thicken brittle strands while preventing breakage.\nHow to use: Lather into wet hair, massage gently, rinse with warm water.\nFor external use only. Avoid eye contact. Discontinue if irritation occurs.",
+      "uz": "Avakado yog‘i hamda fito-keratin sochni chuqur namlaydi, mustahkamlaydi va qalinlashtiradi, mo‘rtlashuvni kamaytiradi.\nQo‘llash: nam sochga surtib, ko‘pik hosil qiling va iliq suvda yuving.\nFaqat tashqi foydalanish uchun. Ko‘zga tegishidan saqlaning. Tirnash bo‘lsa, ishlatishni to‘xtating."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 17,
+    "title": "ES Moisture Care 10X Conditioner 680 ml",
+    "price": 77000,
+    "img": "product17",
+    "bigImg": "bigProduct17",
+    "desc": {
+      "ru": "Кондиционер ES Moisture Care 10X (680 мл).",
+      "en": "Deep-moisture conditioner with avocado oil & phyto-keratin, 680 ml.",
+      "uz": "Quruq sochlar uchun namlovchi balzam (680 ml)."
+    },
+    "descFull": {
+      "ru": "Масло авокадо и фитокератин глубоко увлажняют сухие, ломкие волосы, укрепляют и утолщают их, придавая эластичность. Применение: после шампуня нанести от середины длины до кончиков, оставить 1-2 мин, смыть тёплой водой. Только наружное использование; избегать контакта с глазами; при раздражении прекратить применение.",
+      "en": "Rich conditioner for dry, brittle hair. Avocado oil and phyto-keratin saturate strands with moisture, repair damage and boost softness and elasticity. How to use: apply to mid-lengths and ends after shampooing, leave 1-2 min, rinse thoroughly. External use only; avoid eye contact; discontinue if irritation occurs.",
+      "uz": "Avakado yog‘i va fito-keratinli balzam quruq, mo‘rt sochni chuqur namlaydi, mustahkamlaydi va elastik qiladi. Shampundan so‘ng sochning o‘rtasidan uchigacha surting, 1-2 daqiqadan keyin iliq suvda yuving. Faqat tashqi foydalanish; ko‘zga tegmasin; tirnash bo‘lsa, ishlatishni to‘xtating."
+    },
+    "brand": "Elastine",
+    "category": "hair-care",
+    "available": true
+  },
+  {
+    "id": 18,
+    "title": "Veilment SPA Radiant Body Wash – Jasmine 400 ml",
+    "price": 105000,
+    "img": "product18",
+    "bigImg": "bigProduct18",
+    "desc": {
+      "ru": "Пенный скраб-гель с жасмином и солью Мёртвого моря, 400 мл.",
+      "en": "Gentle foaming scrub body wash with jasmine & Dead Sea salt, 400 ml.",
+      "uz": "Jasminli, O‘lik dengiz tuzi bilan tana uchun ko‘pik-skrabi (400 ml)."
+    },
+    "descFull": {
+      "ru": "Мягко очищает и отшелушивает кожу за счёт соли Мёртвого моря и порошка абрикосовой косточки; экстракт жасмина и гиалуроновая кислота увлажняют и тонизируют. Применение: нанести на мочалку или влажную кожу, мягко помассировать, смыть водой. Только наружное применение; избегать попадания в глаза; не использовать детям до 3 лет; при раздражении прекратить использование.",
+      "en": "Daily exfoliating body wash combining Dead Sea salt, apricot seed powder, jasmine extract and hyaluronic acid. Cleanses, polishes and hydrates while leaving a relaxing jasmine aroma. How to use: apply to loofah or wet skin, massage gently, rinse well. External use only; avoid eye contact; not for children under 3; discontinue if irritation occurs.",
+      "uz": "O‘lik dengiz tuzi va o‘rik danagi kukuni terini muloyim tozalab, jasmin ekstrakti hamda gigyaluron kislotasi chuqur namlaydi va tinchlantiradi. Foydalanish: gelni mashkalka yoki nam teriga surtib, muloyim uqalang, so‘ng suvda yuving. Faqat tashqi foydalanish; ko‘zga tegmasin; 3 yoshdan kichik bolalar uchun emas; tirnash belgilari bo‘lsa, to‘xtating."
+    },
+    "brand": "Veilment",
+    "category": "body-care",
+    "available": true
+  },
+  {
+    "id": 19,
+    "title": "Veilment SPA Radiant Body Wash – Himalaya Pink Salt 400 ml",
+    "price": 105000,
+    "img": "product19",
+    "bigImg": "bigProduct19",
+    "desc": {
+      "ru": "Пенный скраб-гель с гималайской розовой солью, 400 мл.",
+      "en": "Exfoliating body wash with Himalayan pink salt, 400 ml.",
+      "uz": "Gimoloy pushti tuzi bilan tana uchun ko‘pik-skrab (400 ml)."
+    },
+    "descFull": {
+      "ru": "Ежедневный пенный скраб на основе богатой минералами соли Мёртвого моря и гималайской розовой соли с добавлением порошка абрикосовой косточки и растительных экстрактов. Мягко полирует кожу, улучшает микрорельеф и увлажняет. Способ применения: нанести на мочалку или влажную кожу, мягко помассировать, тщательно смыть. Только наружное применение; избегать контакта с глазами; не применять детям до 3 лет; при раздражении прекратить использование.",
+      "en": "Daily foaming scrub body wash enriched with mineral-rich Dead Sea salt, Himalayan pink salt, apricot seed powder and botanical extracts. Gently exfoliates, brightens and hydrates, leaving skin smooth and refreshed. How to use: apply to loofah or wet skin, massage gently and rinse well. External use only; avoid eye contact; not suitable for children under 3; discontinue if irritation occurs.",
+      "uz": "O‘lik dengizi tuzi va Gimoloy pushti tuzi, o‘rik danagi kukuni hamda o‘simlik ekstraktlariga boy kundalik ko‘pik-skrab. Terini muloyim tozalab, rangini yorqinlashtiradi va namlaydi. Foydalanish: gelni mashkalka yoki nam teriga surtib, yengil uqalang, so‘ng suv bilan yuving. Faqat tashqi foydalanish; ko‘zga tegmasin; 3 yoshdan kichik bolalarga mos emas; tirnash xususiyati yuzaga kelsa, foydalanishni to‘xtating."
+    },
+    "brand": "Veilment",
+    "category": "body-care",
+    "available": true
+  },
+  {
+    "id": 20,
+    "title": "ON THE NATURAL Olive Cleansing Foam 120 g",
+    "price": 35000,
+    "img": "product20",
+    "bigImg": "bigProduct20",
+    "desc": {
+      "ru": "Пенка для умывания с оливковым маслом.",
+      "en": "Olive-oil facial cleansing foam.",
+      "uz": "Zaytun moyli yuz tozalovchi ko‘pik."
+    },
+    "descFull": {
+      "ru": "Лёгкая пенка бережно смывает загрязнения и макияж, образует пышную пену и глубоко очищает поры, не пересушивая кожу. Оливковое масло увлажняет и укрепляет, авокадо увеличивает эластичность. Способ применения: вспенить в ладонях, нанести на влажное лицо, помассировать и смыть тёплой водой. Только наружное применение; избегать глаз; при раздражении прекратить использование.",
+      "en": "Lightweight cleansing foam that lifts away makeup and impurities while olive oil hydrates and shields the skin; avocado extract boosts elasticity. Creates a rich lather that deep-cleans pores without overdrying. How to use: work into a foam in your hands, massage onto wet face, rinse with warm water. External use only; avoid eye contact; discontinue if irritation occurs.",
+      "uz": "Yuqori zichlikdagi ko‘pik terini va bo‘yanish qoldiqlarini muloyim tozalaydi; zaytun moyi namlikni saqlaydi, avakado ekstrakti terini elastik qiladi. Terini quritmay, chuqur teshib tozalaydi. Foydalanish: kaftda ko‘piklab, nam yuzga surtish, massaj qilib, iliq suvda yuvish. Faqat tashqi ishlatish uchun; ko‘zga tegishidan saqlaning; tirnash bo‘lsa, to‘xtating."
+    },
+    "brand": "ON THE NATURAL",
+    "category": "body-care",
+    "available": true
+  },
+  {
+    "id": 21,
+    "title": "ON THE NATURAL Avocado Cleansing Foam 120 g",
+    "price": 35000,
+    "img": "product21",
+    "bigImg": "bigProduct21",
+    "desc": {
+      "ru": "Пенка для умывания с экстрактом авокадо.",
+      "en": "Avocado-extract facial cleansing foam.",
+      "uz": "Avakado ekstrakti bilan yuz tozalovchi ko‘pik."
+    },
+    "descFull": {
+      "ru": "Лёгкая пенка мягко удаляет загрязнения и макияж, образуя обильную пену и глубоко очищая поры без пересушивания. Экстракт авокадо интенсивно увлажняет, повышает эластичность и укрепляет защитный барьер. Применение: вспенить в ладонях, нанести на влажное лицо, помассировать и смыть тёплой водой. Только наружное применение; избегать попадания в глаза; при раздражении прекратить использование.",
+      "en": "Lightweight cleansing foam with avocado extract that gently lifts away makeup and impurities, creates a rich lather and deep-cleans pores without overdrying. Avocado moisturises, boosts elasticity and supports the skin barrier. How to use: work into a foam in your hands, massage onto wet face, rinse with warm water. External use only; avoid eye contact; discontinue if irritation occurs.",
+      "uz": "Engil ko‘pik terini va bo‘yanish qoldiqlarini muloyimlik bilan tozalaydi; avakado ekstrakti chuqur namlaydi, elastiklikni oshiradi va himoya qatlamini mustahkamlaydi. Foydalanish: kaftda ko‘piklab, nam yuzga surtish, massaj qilish va iliq suvda yuvish. Faqat tashqi ishlatish; ko‘zga tegishidan saqlaning; tirnash xususiyati paydo bo‘lsa, foydalanishni to‘xtating."
+    },
+    "brand": "ON THE NATURAL",
+    "category": "body-care",
+    "available": true
+  },
+  {
+    "id": 22,
+    "title": "Minis Travel set",
+    "price": 151200,
+    "img": "product22",
+    "bigImg": "bigProduct22",
+    "desc": {
+      "ru": "Компактный, стильный и удобный набор для личной гигиены",
+      "en": "Compact and stylish hygiene kit",
+      "uz": "Kompakt, zamonaviy va qulay gigiyena vositalari jamlanmasi"
+    },
+    "descFull": {
+      "ru": "Компактный, стильный и удобный набор для личной гигиены — бери с собой в путешествие, в спортзал или просто на каждый день. Наполнение: Шампунь, Кондиционер, Гель для душа, Пенка для умывания, Зубная паста, Зубная щётка",
+      "en": "Compact and stylish hygiene kit — perfect for travel, gym, or daily use. Includes: Shampoo, Conditioner, Body Wash, Cleansing Foam, Toothpaste, Toothbrush.",
+      "uz": "Kompakt, zamonaviy va qulay gigiyena vositalari jamlanmasi — safarga, sport zaliga yoki oddiy kundalik hayot uchun. Shampun, Konditsioner, Dush geli, Yuz yuvish uchun penka, Tish pastasi, Tish cho‘tkasi"
+    },
+    "brand": "Minis",
+    "category": "body-care",
+    "available": true
+  }
+]
